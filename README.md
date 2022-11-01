@@ -14,17 +14,14 @@
     border-radius: 5px; /* Радиус скругления */
     padding: 2%; /* Поля */
    }
-   figure:first-child {
-    margin-left: 0; /* Убираем отступ для первого элемента */
-   }
   </style>
  </head>
  <body>
   <figure>
-   <img src="[image/redcat.jpg](https://github.com/DenisenkoDS/scoring/blob/main/class.png)" alt="Несбалансированные классы" width="50%">
+   <img src="[class.png](https://github.com/DenisenkoDS/scoring/blob/main/class.png)" alt="Несбалансированные классы" width="50%">
   </figure>
   <figure>
-   <img src="[image/redcat.jpg](https://github.com/DenisenkoDS/scoring/blob/main/roc_auc.png)" alt="Финальный ROC AUC" width="50%">
+   <img src="[roc_auc.png](https://github.com/DenisenkoDS/scoring/blob/main/roc_auc.png)" alt="Финальный ROC AUC" width="50%">
   </figure>
  </body>
 </html>
