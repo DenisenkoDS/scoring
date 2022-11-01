@@ -8,8 +8,8 @@
  </head>
  <body>
   <p>
-    <img src="[images/thumb1.jpg](https://github.com/DenisenkoDS/scoring/blob/main/class.png)" alt="Фотография 1" width="120" height="120">
-    <img src="[images/thumb2.jpg](https://github.com/DenisenkoDS/scoring/blob/main/roc_auc.png)" alt="Фотография 2" width="120" height="120">
+    <img src="[images/class.png](https://github.com/DenisenkoDS/scoring/blob/main/class.png)" alt="images/thumb1.jpg" width="120" height="120">
+    <img src="[images/roc_auc.png](https://github.com/DenisenkoDS/scoring/blob/main/roc_auc.png)" alt="images/thumb2.jpg" width="120" height="120">
   </p>
  </body>
 </html>
