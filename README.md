@@ -7,21 +7,27 @@
   <title>Изображения</title>
   <style>
    figure {
-    width: 27%; /* Ширина */
-    float: left; /* Выстраиваем элементы по горизонтали */
-    margin: 0 0 0 3.5%; /* Отступ слева */
-    background: #f0f0f0; /* Цвет фона */
-    border-radius: 5px; /* Радиус скругления */
-    padding: 2%; /* Поля */
+    width: 27%; 
+    float: left;
+    margin: 0 0 0 3.5%;
+    background: #f0f0f0; 
+    border-radius: 5px; 
+    padding: 2%;
+   }
+   figure:first-child {
+    margin-left: 0;
    }
   </style>
  </head>
  <body>
   <figure>
-   <img src="[class.png](https://github.com/DenisenkoDS/scoring/blob/main/class.png)" alt="Несбалансированные классы" width="100%">
+   <img src="image/redcat.jpg" alt="Рыжая кошка" width="100%">
   </figure>
   <figure>
-   <img src="[roc_auc.png](https://github.com/DenisenkoDS/scoring/blob/main/roc_auc.png)" alt="Финальный ROC AUC" width="100%">
+   <img src="[class.png](https://github.com/DenisenkoDS/scoring/blob/main/class.png)" alt="Рыжая кошка" width="100%">
+  </figure>
+  <figure>
+   <img src="[image/redcat.jpg](https://github.com/DenisenkoDS/scoring/blob/main/roc_auc.png)" alt="Рыжая кошка" width="100%">
   </figure>
  </body>
 </html>
