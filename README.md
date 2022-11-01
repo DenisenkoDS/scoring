@@ -21,10 +21,10 @@
  </head>
  <body>
   <figure>
-   <img src="[image/redcat.jpg](https://github.com/DenisenkoDS/scoring/blob/main/class.png)" alt="Рыжая кошка" width="100%">
+   <img src="[image/redcat.jpg](https://github.com/DenisenkoDS/scoring/blob/main/class.png)" alt="Несбалансированные классы" width="50%">
   </figure>
   <figure>
-   <img src="[image/redcat.jpg](https://github.com/DenisenkoDS/scoring/blob/main/roc_auc.png)" alt="Рыжая кошка" width="100%">
+   <img src="[image/redcat.jpg](https://github.com/DenisenkoDS/scoring/blob/main/roc_auc.png)" alt="Финальный ROC AUC" width="50%">
   </figure>
  </body>
 </html>
