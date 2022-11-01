@@ -18,10 +18,10 @@
  </head>
  <body>
   <figure>
-   <img src="[class.png](https://github.com/DenisenkoDS/scoring/blob/main/class.png)" alt="Несбалансированные классы" width="50%">
+   <img src="[class.png](https://github.com/DenisenkoDS/scoring/blob/main/class.png)" alt="Несбалансированные классы" width="100%">
   </figure>
   <figure>
-   <img src="[roc_auc.png](https://github.com/DenisenkoDS/scoring/blob/main/roc_auc.png)" alt="Финальный ROC AUC" width="50%">
+   <img src="[roc_auc.png](https://github.com/DenisenkoDS/scoring/blob/main/roc_auc.png)" alt="Финальный ROC AUC" width="100%">
   </figure>
  </body>
 </html>
