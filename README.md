@@ -1,5 +1,5 @@
 # Кредитный скоринг
- Классны не сбалансированы, финальный ROC AUC (Logistic regression).
+ Классы не сбалансированы, финальный ROC AUC (Logistic regression).
 <!DOCTYPE html>
 <html>
  <head>
